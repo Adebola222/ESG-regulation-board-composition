@@ -151,7 +151,6 @@ Analysis uses 2008-2022 (not full 2003-2022) because:
 install.packages(c("tidyverse", "plm", "lmtest", "stargazer"))
 
 # Run analysis
-setwd("code/")
 source("analysis.R")
 ```
 
